@@ -10,4 +10,33 @@ body {
   width: 100%;
   height: 100%;
   font-size: 62.5%;
+  font-family: sans-serif;
+}
+header {
+  width: 100%;
+  background-color: #333333;
+  color: #fafafa;
+  font-size: 1.6rem;
+  text-align: center;
+  align-items: center;
+}
+.h1-head {
+  padding-top: 5rem;
+  padding-bottom: 1.5rem;
+}
+.p-head {
+  padding: 0 20rem;
+  font-size: 1 rem;
+  font-weight: lighter;
+  line-height: 2.3rem;
+  margin-bottom: 2rem;
+}
+
+.btn {
+  color: #fafafa;
+  padding: 1rem;
+  margin-bottom: 7rem;
+  border: 1px solid #757272;
+  background-color: #333333;
+  cursor: pointer;
 }
